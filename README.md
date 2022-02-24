@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Vítor Alves
+## Olá! Eu sou o João Vítor de Luiz Alves
 
 <div align="center">
   <a href="https://github.com/JVLAlves">
@@ -16,4 +16,4 @@
   <img align="center" alt="JVA-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
   
-  ![Snake animation]JVLAlves
+  ![Snake animation](https://github.com/JVLAlves/JVLAlves/blob/output/github-contribution-grid-snake.svg)
