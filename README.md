@@ -1,4 +1,4 @@
-<h2 align="left">Eu sou João Vítor de Luiz Alves, seja bem-vindo ao meu perfil!</h2>
+<h2 align="left"> Seja bem-vindo! Eu sou <em> João Vítor de Luiz Alves </em> . </h2>
 
 ###
 
